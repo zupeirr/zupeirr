@@ -68,13 +68,7 @@ Innovative and results-driven professional with a strong foundation in emerging 
 - DevOps and CI/CD Pipelines⚙️.  
 - Web 3 and decentralized applications (dApps).  
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=default" alt="Streak Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact" alt="Top Languages" />
-</p>
 
----
 
 ## 📫 Connect with Me
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/suber-sulub-147897317/)
