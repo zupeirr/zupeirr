@@ -1,72 +1,88 @@
-# Hi there, I'm [Suber Sulub] 👋
-Welcome to my GitHub profile! I'm a Software Developer 
+# 👋 Hi there! I'm [Suber Sulub]
 
-
-## 🔧 Technologies & Tools
-
-- **Languages:** 
-  - ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-  - ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-  - ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-- **Frameworks:** 
-  - ![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring)
-  - ![JavaFX](https://img.shields.io/badge/-JavaFX-black?style=flat-square&logo=java)
-- **Databases:** 
-  - ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-  - ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-- **Tools:** 
-  - ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-  - ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-- **Cloud Services:** 
-  - ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws)
-  - ![Azure](https://img.shields.io/badge/-Azure-black?style=flat-square&logo=microsoftazure)
-
-## 🌱 Currently Learning
-
-- Spring Boot, Microservices, Advanced JavaFX
-
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
-## 🔗 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/suber-sulub-14789731)
-- [GitHub](https://github.com/zupeirr)
-- [telegram Account](https://t.me/thezupeirr)
-
-## 📂 Featured Projects
-
-Here are some of my notable projects:
-
-- **[Task Management App](https://github.com/yourusername/task-manager)**: A desktop application for managing tasks using JavaFX and Spring Boot.
-- **[Cafeteria Management System](https://github.com/yourusername/cafeteria-system)**: A system to manage cafeteria operations.
-- **[University Registration System](https://github.com/yourusername/university-registration)**: A web application for students to register for courses.
-- **[Hotel Menu App](https://github.com/yourusername/hotel-menu)**: An application displaying the menu of a hotel or restaurant.
-
-## 💬 Ask Me About
-
-- Java, JavaFX, Spring Boot, Software Design Patterns
-
-## 📚 Blog Posts
-
-
-
-## 🎯 Goals
-
-- Short-term goals: Learn a new framework, Contribute to open-source projects.
-- Long-term goals: Become a full-stack developer, Start a tech blog.
-
-## ⚡ Fun Fact
-
-I enjoy hiking and exploring nature on weekends!
-
-## 📜 Certifications
-
-- [Certification Name 1](https://link-to-certification)
-- [Certification Name 2](https://link-to-certification)
+I'm a software engineer passionate about Blockchain, Artificial Intelligence (AI), Web Development, and Data Analysis. With certifications across these domains, I excel at bridging technical development with business strategy to drive innovation and growth.  
+Innovative and results-driven professional with a strong foundation in emerging technologies and digital business solutions. Possessing certifications in Blockchain, Artificial Intelligence (AI), HTML, and Data Analysis.
 
 ---
 
-Thank you for visiting my profile! Feel free to reach out if you want to collaborate on a project or just want to chat about tech!
+## 🛠️ Tech Stack
+
+### 🔹 Programming & Core Concepts
+<p align="left">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p align="left">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+### 🛠️ Tools
+<p align="left">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+<img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
+</p>
+
+---
+
+## 🏆 Certifications
+- **Blockchain Developer** (Simplilearn, 2024)  
+  Hands-on training and certification in blockchain development.
+  
+- **Blockchain Fundamentals & Training** (Great Learning, 2023)  
+  Comprehensive understanding of blockchain technology and applications.
+
+- **HTML Developer** (Codyteach, 2024)  
+  Expert certification in HTML for web development.
+
+- **Digital Marketing Manager** (UniAthena)  
+  Specialized training in digital marketing strategies and tools.
+
+- **AI Developer** (Udacity)  
+  Advanced AI development certification covering machine learning and deep learning.
+
+---
+
+## 🎓 Education
+- **Dire Dawa University** *(2022 - Present)*  
+  Bachelor Degree of Software Engineering  
+
+
+---
+
+
+## 🌱 Currently Learning
+- Advanced blockchain and smart contracts.  
+- DevOps and CI/CD Pipelines⚙️.  
+- Web 3 and decentralized applications (dApps).  
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=default" alt="Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+## 📫 Connect with Me
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/suber-sulub-147897317/)
+- **GitHub:** [Your GitHub Profile](https://github.com/your-username)
+- **Gmail:** subersulub@gmail.com
+- **Telegram:** [Your Telegram Handle](https://t.me/thezupeirr)
+
+---
+
+## 💬 Fun Fact
+I'm a huge fan of chess and often spend my weekends strategizing over the board or solving chess puzzles!
