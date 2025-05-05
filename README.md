@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm [Suber Sulub]
 
-I'm a software engineer passionate about Blockchain, Artificial Intelligence (AI), Web Development, and Data Analysis. With certifications across these domains, I excel at bridging technical development with business strategy to drive innovation and growth.  
+I'm a software engineer passionate about Blockchain,  Web Development, and Data Analysis. With certifications across these domains, I excel at bridging technical development with business strategy to drive innovation and growth.  
 Innovative and results-driven professional with a strong foundation in emerging technologies and digital business solutions. Possessing certifications in Blockchain, Artificial Intelligence (AI), HTML, and Data Analysis.
 
 ---
