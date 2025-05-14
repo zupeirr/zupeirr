@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm [Suber Sulub]
+# 👋 Hi there! I'm Suber Sulub
 
 I'm a software engineer passionate about Blockchain,  Web Development, and Data Analysis. With certifications across these domains, I excel at bridging technical development with business strategy to drive innovation and growth.  
 Innovative and results-driven professional with a strong foundation in emerging technologies and digital business solutions. Possessing certifications in Blockchain, Artificial Intelligence (AI), HTML, and Data Analysis.
@@ -65,7 +65,6 @@ Innovative and results-driven professional with a strong foundation in emerging 
 
 ## 🌱 Currently Learning
 - Advanced blockchain and smart contracts.  
-- DevOps and CI/CD Pipelines⚙️.  
 - Web 3 and decentralized applications (dApps).  
 
 
@@ -78,5 +77,3 @@ Innovative and results-driven professional with a strong foundation in emerging 
 
 ---
 
-## 💬 Fun Fact
-I'm a huge fan of chess and often spend my weekends strategizing over the board or solving chess puzzles!
