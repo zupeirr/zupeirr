@@ -1,8 +1,7 @@
 # 👋 Hi there! I'm Suber Sulub
 
 I'm a software engineer passionate about Blockchain,  Web Development, and Data Analysis. With certifications across these domains, I excel at bridging technical development with business strategy to drive innovation and growth.  
-Innovative and results-driven professional with a strong foundation in emerging technologies and digital business solutions. Possessing certifications in Blockchain, Artificial Intelligence (AI), HTML, and Data Analysis.
-
+Innovative and results-driven professional with a strong foundation in emerging technologies and digital business solutions. Possessing certifications in Blockchain, Artificial Intelligence (AI),
 ---
 
 ## 🛠️ Tech Stack
@@ -37,35 +36,14 @@ Innovative and results-driven professional with a strong foundation in emerging 
 
 ---
 
-## 🏆 Certifications
-- **Blockchain Developer** (Simplilearn, 2024)  
-  Hands-on training and certification in blockchain development.
-  
-- **Blockchain Fundamentals & Training** (Great Learning, 2023)  
-  Comprehensive understanding of blockchain technology and applications.
-
-- **HTML Developer** (Codyteach, 2024)  
-  Expert certification in HTML for web development.
-
-- **Digital Marketing Manager** (UniAthena)  
-  Specialized training in digital marketing strategies and tools.
-
-- **AI Developer** (Udacity)  
-  Advanced AI development certification covering machine learning and deep learning.
+#
 
 ---
-
-## 🎓 Education
-- **Dire Dawa University** *(2022 - Present)*  
-  Bachelor Degree of Software Engineering  
 
 
 ---
 
 
-## 🌱 Currently Learning
-- Advanced blockchain and smart contracts.  
-- Web 3 and decentralized applications (dApps).  
 
 
 
