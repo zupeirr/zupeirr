@@ -1,8 +1,5 @@
 #  Hi, I'm Suber Sulub <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F&width=500&lines=Full-Stack+Developer;Coffee+Lover+and+Code+Wizard;Breaking+Things+and+Fixing+Them" />
-</p>
 
 
 
