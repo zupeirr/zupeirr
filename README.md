@@ -47,8 +47,8 @@ I enjoy **solving complex problems**, creating **efficient solutions**, and cont
 
 ## 📈 GitHub Stats
 
-![Suber Sulub's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SubeerSulub&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SubeerSulub&layout=compact&theme=tokyonight)  
+![Suber Sulub's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zupeirr&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zupeirr&layout=compact&theme=tokyonight)  
 
 ---
 
