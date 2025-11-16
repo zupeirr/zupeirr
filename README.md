@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Suber Sulub
 
-### Passionate & Software Developer  
+### Dedicated Software Developer & Tech Enthusiast
 Based in Hargeisa, Somaliland 🌍  
 [🌐 Portfolio](https://myperweb.vercel.app/) | [✉️ Email](mailto:subeersulub10@gmail.com)
 
