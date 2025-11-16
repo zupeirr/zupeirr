@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Suber Sulub
 
-### Passionate & Creative Full-Stack Developer  
+### Passionate & Software Developer  
 Based in Hargeisa, Somaliland 🌍  
 [🌐 Portfolio](https://myperweb.vercel.app/) | [✉️ Email](mailto:subeersulub10@gmail.com)
 
@@ -40,7 +40,7 @@ Based in Hargeisa, Somaliland 🌍
 
 ## 💻 About Me
 
-I am a full-stack developer with 4 years of experience building **web and mobile applications**.  
+I am a Software developer with 4 years of experience building **web and mobile applications**.  
 I enjoy **solving complex problems**, creating **efficient solutions**, and continuously **learning new technologies** to enhance my projects.  
 
 ---
