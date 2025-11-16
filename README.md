@@ -52,9 +52,11 @@ I enjoy **solving complex problems**, creating **efficient solutions**, and cont
 
 ---
 
-## 🏆 GitHub Trophies
 
-![Suber Sulub's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SubeerSulub&theme=radical&no-frame=true&no-bg=true&margin-w=10)  
+## 🏆 Official GitHub Achievements
+
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=zupeirr&theme=radical&no-frame=true&no-bg=true&margin-w=10)
 
 ---
 
