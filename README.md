@@ -1,44 +1,37 @@
 #  Hi, I'm Suber Sulub <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
-
-
-
-
-
 ### Dedicated Software Developer & Tech Enthusiast 
 [🌐 Portfolio](https://myperweb.vercel.app/) | [✉️ Email](mailto:subeersulub10@gmail.com)
 
----
-
-## 🖥️ Languages
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+### Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=zupeirr&color=blue)
 
 ---
 
-## ⚡ Frameworks & Libraries
+## 🚀 Tech Stack
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+<p align="left">
 
----
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="React" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="JavaScript" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="TailwindCSS" />
 
-## 🛠️ Tools & Technologies
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="Node.js" />
+  <img src="https://cdn.simpleicons.org/express/FFFFFF" height="40" alt="Express.js" />
+  <img src="https://cdn.simpleicons.org/koa/333333" height="40" alt="Koa" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white)  
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="MongoDB" />
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="40" alt="Firebase" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="MySQL" />
+
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="Docker" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" height="40" alt="Next.js" />
+
+</p>
 
 ---
 
@@ -54,11 +47,13 @@ I enjoy **solving complex problems**, creating **efficient solutions**, and cont
 ![Suber Sulub's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zupeirr&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zupeirr&layout=compact&theme=tokyonight)  
 
+### 🔥 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zupeirr&theme=tokyonight)
+
+
 ---
 
-
 ## 🏆 Official GitHub Achievements
-
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=zupeirr&theme=radical&no-frame=true&no-bg=true&margin-w=10)
 
@@ -66,10 +61,23 @@ I enjoy **solving complex problems**, creating **efficient solutions**, and cont
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suber-sulub-147897317/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SubeerSulub)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subersulub@gmail.com)  
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/thezupeirr)
+<div>
+  <a href="https://www.linkedin.com/in/suber-sulub-147897317/" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="https://twitter.com/your_twitter" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+
+  <a href="mailto:subersulub@gmail.com" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+
+  <a href="https://myperweb.vercel.app/" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=ghost&logoColor=white" alt="Portfolio"/>
+  </a>
+</div>
 
 ---
 
