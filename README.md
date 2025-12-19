@@ -35,7 +35,7 @@
 
 ---
 
-## 💻 About Me
+## 💻 About me
 
 I am a Software developer with 4 years of experience building **web and mobile applications**.  
 I enjoy **solving complex problems**, creating **efficient solutions**, and continuously **learning new technologies** to enhance my projects.  
