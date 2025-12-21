@@ -7,7 +7,7 @@
 
 
 
-### Profile Views & Visitors
+### Profile Views & Visitors bn
 ![Profile Views](https://komarev.com/ghpvc/?username=zupeirr&color=blue)  
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=zupeirr)
 
