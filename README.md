@@ -1,7 +1,8 @@
 # Hi, I'm Suber Sulub <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
 ### Dedicated Software Developer & Tech Enthusiast
-[🌐 Portfolio](https://myperweb.vercel.app/) | [✉️ Email](mailto:subeersulub10@gmail.com)
+[🌐 Portfolio](https://zupeirr.vercel.app/
+) | [✉️ Email](mailto:subeersulub10@gmail.com)
 
 ---
 
