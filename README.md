@@ -65,7 +65,8 @@ I enjoy **solving complex problems**, creating **efficient solutions**, and cont
   <a href="mailto:subersulub@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://myperweb.vercel.app/" target="_blank">
+  <a href="(https://zupeirr.vercel.app/
+)" target="_blank">
     <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=ghost&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
